@@ -1,0 +1,15 @@
+C:\Users\aleks\OneDrive\Desktop\seminar006\chet\bin\Debug\net6.0\chet.exe
+C:\Users\aleks\OneDrive\Desktop\seminar006\chet\bin\Debug\net6.0\chet.deps.json
+C:\Users\aleks\OneDrive\Desktop\seminar006\chet\bin\Debug\net6.0\chet.runtimeconfig.json
+C:\Users\aleks\OneDrive\Desktop\seminar006\chet\bin\Debug\net6.0\chet.dll
+C:\Users\aleks\OneDrive\Desktop\seminar006\chet\bin\Debug\net6.0\chet.pdb
+C:\Users\aleks\OneDrive\Desktop\seminar006\chet\obj\Debug\net6.0\chet.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\seminar006\chet\obj\Debug\net6.0\chet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Desktop\seminar006\chet\obj\Debug\net6.0\chet.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Desktop\seminar006\chet\obj\Debug\net6.0\chet.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\seminar006\chet\obj\Debug\net6.0\chet.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\seminar006\chet\obj\Debug\net6.0\chet.dll
+C:\Users\aleks\OneDrive\Desktop\seminar006\chet\obj\Debug\net6.0\refint\chet.dll
+C:\Users\aleks\OneDrive\Desktop\seminar006\chet\obj\Debug\net6.0\chet.pdb
+C:\Users\aleks\OneDrive\Desktop\seminar006\chet\obj\Debug\net6.0\chet.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Desktop\seminar006\chet\obj\Debug\net6.0\ref\chet.dll
