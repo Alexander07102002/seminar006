@@ -1,0 +1,15 @@
+C:\Users\aleks\OneDrive\Desktop\seminar006\fun_math\obj\Debug\net6.0\fun_math.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\seminar006\fun_math\obj\Debug\net6.0\fun_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Desktop\seminar006\fun_math\obj\Debug\net6.0\fun_math.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Desktop\seminar006\fun_math\obj\Debug\net6.0\fun_math.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\seminar006\fun_math\obj\Debug\net6.0\fun_math.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\seminar006\fun_math\bin\Debug\net6.0\fun_math.exe
+C:\Users\aleks\OneDrive\Desktop\seminar006\fun_math\bin\Debug\net6.0\fun_math.deps.json
+C:\Users\aleks\OneDrive\Desktop\seminar006\fun_math\bin\Debug\net6.0\fun_math.runtimeconfig.json
+C:\Users\aleks\OneDrive\Desktop\seminar006\fun_math\bin\Debug\net6.0\fun_math.dll
+C:\Users\aleks\OneDrive\Desktop\seminar006\fun_math\bin\Debug\net6.0\fun_math.pdb
+C:\Users\aleks\OneDrive\Desktop\seminar006\fun_math\obj\Debug\net6.0\fun_math.dll
+C:\Users\aleks\OneDrive\Desktop\seminar006\fun_math\obj\Debug\net6.0\refint\fun_math.dll
+C:\Users\aleks\OneDrive\Desktop\seminar006\fun_math\obj\Debug\net6.0\fun_math.pdb
+C:\Users\aleks\OneDrive\Desktop\seminar006\fun_math\obj\Debug\net6.0\fun_math.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Desktop\seminar006\fun_math\obj\Debug\net6.0\ref\fun_math.dll
